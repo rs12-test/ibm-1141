@@ -6,4 +6,6 @@ README.md export-ignore
 *ebcdic* git-encoding=ISO8859-1 working-tree-encoding=IBM-1047
 *untag* git-encoding=ISO8859-1 working-tree-encoding=IBM-1047
 *utf-8* git-encoding=ISO8859-1 working-tree-encoding=UTF-8
-*german* git-encoding=ISO8859-1 working-tree-encoding=IBM-1141
+*asc_ibm-1141* git-encoding=ISO8859-1 working-tree-encoding=IBM-1141
+*utf_ibm-1141* git-encoding=UTF-8 working-tree-encoding=IBM-1141
+*ibm_ibm-1141* git-encoding=IBM-1141 working-tree-encoding=IBM-1141
